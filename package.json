@@ -29,7 +29,7 @@
   "homepage": "https://github.com/googleapis/release-please-action#readme",
   "dependencies": {
     "@actions/core": "^1.10.0",
-    "release-please": "^16.18.0"
+    "release-please": "https://github.com/femiwiki/release-please.git#a253d67fd76d70f4a4fd225ea7c5a36411742ae5"
   },
   "devDependencies": {
     "@types/mocha": "^9.0.0",
